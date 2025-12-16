@@ -1,0 +1,11 @@
+[
+    {
+        "username": "Brandon123",
+        "password": "123456",
+        "email": "brandon@gmail.com",
+        "favoritos": [
+            "Avengers",
+            "Breaking Bad"
+        ]
+    }
+]
