@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Avengers",
+    "tipo": "pelicula",
+    "duracion_min": 143
+  },
+  {
+    "id": 2,
+    "titulo": "Matrix",
+    "tipo": "pelicula",
+    "duracion_min": 136
+  },
+  {
+    "id": 3,
+    "titulo": "Interstellar",
+    "tipo": "pelicula",
+    "duracion_min": 169
+  },
+  {
+    "id": 4,
+    "titulo": "Breaking Bad",
+    "tipo": "serie",
+    "capitulos": 62
+  },
+  {
+    "id": 5,
+    "titulo": "Dark",
+    "tipo": "serie",
+    "capitulos": 26
+  },
+  {
+    "id": 6,
+    "titulo": "Stranger Things",
+    "tipo": "serie",
+    "capitulos": 34
+  }
+]
