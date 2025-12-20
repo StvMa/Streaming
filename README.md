@@ -6,6 +6,18 @@ Este proyecto simula un sistema de streaming con
 **catálogo de películas y series** 
 y la funcionalidad de **guardar favoritos**  
 
+🎯 Objetivo del Proyecto
+
+Aplicar los conocimientos adquiridos durante la asignatura mediante el desarrollo de un sistema modular en Python que integre:
+
+Servicios web
+
+Serialización de datos en JSON
+
+Gestión de usuarios y contenidos
+
+Arquitectura organizada y comprensible
+
 **1.----** ││││││││││││││││││││││││││││││││││││││││││││││││││││││││││
 
 ## 📁 Estructura del proyecto
@@ -24,8 +36,25 @@ y la funcionalidad de **guardar favoritos**
 ⚡ Tecnologías
 
 - 🔸Python 3.x
-- 🔸JSON para persistencia de datos
+- 🔸Flask (Servicios Web)
+- 🔸JSON (Serialización y persistencia de datos)
 - 🔸Terminal / Consola para interacción
+
+- 🌐 Servicios Web Implementados
+
+El sistema cuenta con 5 servicios web accesibles mediante URL:
+
+/           → Estado de la API
+
+/contenidos → Ver todo el catálogo
+
+/peliculas → Ver películas
+
+/series → Ver series
+
+/usuarios → Ver usuarios registrados
+
+Todos los servicios retornan información en formato JSON.
 
 **2.----** ││││││││││││││││││││││││││││││││││││││││││││││││││││││││││
 🚀 Cómo ejecutar
@@ -103,6 +132,11 @@ Vuelve al menú de usuario y selecciona Ver favoritos para comprobar que se guar
 
 🟢Crear un sistema de categorías y búsqueda.
 
+
+🔮 Visualización del Futuro del Sistema
+
+El sistema puede evolucionar hacia una aplicación web básica, mejorando el manejo de usuarios, favoritos y contenidos.
+Los servicios web y la serialización en JSON permiten que el proyecto sea escalable y reutilizable para futuros trabajos académicos.
 
 
 Proyecto desarrollado por Brandon Steeven Quilca Cañarejo 👓
